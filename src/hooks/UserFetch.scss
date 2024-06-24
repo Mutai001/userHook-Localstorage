@@ -1,0 +1,13 @@
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    color: #007bff;
+}
+
+.error {
+    color: #dc3545;
+    text-align: center;
+    font-size: 1.2rem;
+}
