@@ -1,0 +1,24 @@
+.user-list {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    h1 {
+        color: #333;
+    }
+    ul {
+        list-style-type: none;
+        padding: 0;
+        li {
+            background-color: #f9f9f9;
+            margin: 10px 0;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            p {
+                margin: 5px 0;
+            }
+            strong {
+                color: #555;
+            }
+        }
+    }
+}
